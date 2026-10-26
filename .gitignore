@@ -1,0 +1,4 @@
+# 비밀 값: 커밋 금지
+.env
+.env.*
+!.env.example
